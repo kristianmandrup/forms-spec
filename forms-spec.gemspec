@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
      "README.markdown",
      "Rakefile",
      "VERSION",
+     "forms-spec.gemspec",
      "lib/forms-spec.rb",
      "lib/forms-spec/erb/base.rb",
      "lib/forms-spec/erb/code-stripper.rb",
