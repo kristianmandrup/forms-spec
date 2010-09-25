@@ -26,7 +26,7 @@ Currently there is support for the following Rails form helper DSLs:
 
 ## Usage
 
-Use the method \#erb_code to extract only the ERB code from a view. 
+Use the method 'erb_code' to extract only the ERB code from a view. 
 You want to ignore all the static in the view!
 
 <pre>
@@ -56,7 +56,7 @@ end
 * Add support for HAML template language
 * Create more comprehensive test suite
 
-== Note on Patches/Pull Requests
+## Note on Patches/Pull Requests
  
 * Fork the project.
 * Make your feature addition or bug fix.
@@ -66,6 +66,6 @@ end
   (if you want to have your own version, that is fine but bump version in a commit by itself I can ignore when I pull)
 * Send me a pull request. Bonus points for topic branches.
 
-== Copyright
+## Copyright
 
 Copyright (c) 2010 Kristian Mandrup. See LICENSE for details.
